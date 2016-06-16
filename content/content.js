@@ -1,4 +1,4 @@
-// Copyright (c) 2014 Raxit Majithiya (@realraxit).
+// Copyright (c) 2014 Raxit Majithiya (@raxityo).
 var config = {
 		shortcut: 10076,
 		text: "LGTM. :+1:"
